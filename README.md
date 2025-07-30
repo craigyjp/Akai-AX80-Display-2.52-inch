@@ -18,4 +18,4 @@ Videos of the Displays in action
 
 [https://youtu.be/0UIXME1TG3U](https://youtu.be/SGEmNIH-Si8)
 
-https://youtu.be/lRL6-849DsE
+[https://youtu.be/lRL6-849DsE](https://youtu.be/7jF0m-6hbDc)
