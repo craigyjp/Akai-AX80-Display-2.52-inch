@@ -16,6 +16,6 @@ The schematics show the decoder logic and level conversion from 5V to 3.3v of th
 
 Videos of the Displays in action
 
-https://youtu.be/0UIXME1TG3U
+[https://youtu.be/0UIXME1TG3U](https://youtu.be/SGEmNIH-Si8)
 
 https://youtu.be/lRL6-849DsE
